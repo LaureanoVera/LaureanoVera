@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, welcome 👋
+## I'm a Web Developer
 
      - 🐱‍💻 PortfolioDeveloper: "https://portfolio-lv.netlify.app/", <br/>
      - 👔 Linkedin: "https://www.linkedin.com/in/laureano-vera-320086204/", <br/>
@@ -10,3 +11,4 @@
         - tools: [[git, github], terminal, webpack, prepros, photoshop],  
         - soft: [adaptability, enthusiastic, confidence, empathy],  
         - plus: [python, godot, gameDevJS]   
+      }
