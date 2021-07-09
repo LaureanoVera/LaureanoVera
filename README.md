@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-- 🐱‍💻 [Portfolio Developer] (https://portfolio-lv.netlify.app/)
-
+LaureanoVera = {
+  🐱‍💻 PortfolioDeveloper: "https://portfolio-lv.netlify.app/",
+  👔 Linkedin: "https://www.linkedin.com/in/laureano-vera-320086204/",
+  📷 Instagram: "https://www.instagram.com/lauri_web_/?hl=es-la"
+}
 <!--
 **LaureanoVera/LaureanoVera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
