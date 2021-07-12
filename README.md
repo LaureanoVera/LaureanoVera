@@ -4,7 +4,7 @@
 
 > 👔 [Linkedin](https://www.linkedin.com/inlaureano-vera-320086204/ "Project?")  
 
-> 📷 [Instagram](https://www.instagram.com/lauri_web_/hl=es-la "Let's talk")  
+<!-- > 📷 [Instagram](https://www.instagram.com/lauri_web_/hl=es-la "Let's talk")   -->
 
 ``` javascript
 const mySkills = {
