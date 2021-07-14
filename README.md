@@ -1,4 +1,4 @@
-## 📘 MEVN Developer
+## 📘 Web and Game Developer
 # I'm **Laureano Vera** 👨‍💻
 > 🐱‍💻 [PortfolioDeveloper](https://portfolio-lv.netlify.app "Look my work")  
 
@@ -9,7 +9,7 @@
 ``` javascript
 const mySkills = {
   frontend: ['html', ['css', 'bootstrap', 'sass', 'less'], 'javascript'],
-  frameworks: ['svelte', 'vuejs'],
+  frameworks: ['svelte'],
   backend: ['nodejs', 'express', 'mongodb', 'mongoose', 'heroku'],
   tools: [['git', 'github'], 'terminal', 'webpack', 'photoshop', 'ejs'],
   soft: ['adaptability', 'enthusiastic', 'confidence', 'empathy'],
