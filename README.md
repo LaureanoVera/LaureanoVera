@@ -1,8 +1,9 @@
 # I'm **Laureano Vera** 💻
 ## 📘 Javascript
-#### and Game Developer 👾
+### and Game Developer 👾
+---
 
-> 👨‍💻 [PortfolioDeveloper](https://portfolio-lv.netlify.app "Look my work")  
+> 👨‍💻 [Portfolio](https://portfolio-lv.netlify.app "Look my work")  
 
 > 👔 [Linkedin](https://www.linkedin.com/inlaureano-vera-320086204/ "Project?")  
 
@@ -19,4 +20,5 @@ const mySkills = {
 }
 ```
 
-## *Thanks for visit!‼*
+
+### *Thanks for visit‼*
