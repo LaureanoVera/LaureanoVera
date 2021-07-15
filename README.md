@@ -1,7 +1,5 @@
 # I'm **Laureano Vera** 💻
-## 📘 Javascript
-### and Game Developer 👾
----
+### 📘 Javascript and Game Developer 👾
 
 > 👨‍💻 [Portfolio](https://portfolio-lv.netlify.app "Look my work")  
 
