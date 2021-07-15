@@ -1,7 +1,8 @@
+# I'm **Laureano Vera** 💻
 ## 📘 Javascript
-#### And Game Developer
-# I'm **Laureano Vera** 👨‍💻
-> 🐱‍💻 [PortfolioDeveloper](https://portfolio-lv.netlify.app "Look my work")  
+#### and Game Developer 👾
+
+> 👨‍💻 [PortfolioDeveloper](https://portfolio-lv.netlify.app "Look my work")  
 
 > 👔 [Linkedin](https://www.linkedin.com/inlaureano-vera-320086204/ "Project?")  
 
@@ -17,3 +18,5 @@ const mySkills = {
   plus: ['python', 'godot', 'gameDevJS']
 }
 ```
+
+## *Thanks for visit!‼*
