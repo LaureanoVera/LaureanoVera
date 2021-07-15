@@ -1,4 +1,5 @@
-## 📘 Web and Game Developer
+## 📘 Javascript
+#### And Game Developer
 # I'm **Laureano Vera** 👨‍💻
 > 🐱‍💻 [PortfolioDeveloper](https://portfolio-lv.netlify.app "Look my work")  
 
@@ -15,9 +16,4 @@ const mySkills = {
   soft: ['adaptability', 'enthusiastic', 'confidence', 'empathy'],
   plus: ['python', 'godot', 'gameDevJS']
 }
-
-const webDev = 'MEVN Stack';
-const gameDev = mySkills.plus[1];
-console.log(webDev);
-console.log(gameDev);
 ```
