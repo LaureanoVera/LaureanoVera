@@ -14,7 +14,7 @@ const mySkills = {
   backend: ['nodejs', 'express', 'mongodb', 'mongoose', 'heroku'],
   tools: [['git', 'github'], 'terminal', 'webpack', 'photoshop', 'ejs'],
   soft: ['adaptability', 'enthusiastic', 'confidence', 'empathy'],
-  plus: ['python', 'godot', 'gameDevJS']
+  plus: ['python', 'godot', 'pygame']
 }
 ```
 
