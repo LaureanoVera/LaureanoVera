@@ -1,5 +1,5 @@
 # I'm **Laureano Vera** 💻
-### 📘 Javascript and Game Developer 👾
+### 📘 Javascript Developer 👾
 
 > 👨‍💻 [Portfolio](https://portfolio-lv.netlify.app "Look my work")  
 
@@ -9,12 +9,11 @@
 
 ``` javascript
 const mySkills = {
-  frontend: ['html', ['css', 'bootstrap', 'sass', 'less'], 'javascript'],
+  frontend: ['html', ['css', 'bootstrap', 'less'], 'javascript'],
   frameworks: ['svelte'],
   backend: ['nodejs', 'express', 'mongodb', 'mongoose', 'heroku'],
   tools: [['git', 'github'], 'terminal', 'webpack', 'photoshop', 'ejs'],
-  soft: ['adaptability', 'enthusiastic', 'confidence', 'empathy'],
-  plus: ['python', 'godot', 'pygame']
+  soft: ['adaptability', 'enthusiastic', 'confidence', 'empathy']
 }
 ```
 
