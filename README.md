@@ -12,7 +12,7 @@ const mySkills = {
   frontend: ['html', ['css', 'bootstrap', 'less'], 'javascript'],
   frameworks: ['svelte'],
   backend: ['nodejs', 'express', 'mongodb', 'mongoose', 'heroku'],
-  tools: [['git', 'github'], 'terminal', 'webpack', 'photoshop', 'ejs'],
+  tools: [['git', 'github'], 'terminal', 'photoshop', 'ejs'],
   soft: ['adaptability', 'enthusiastic', 'confidence', 'empathy']
 }
 ```
