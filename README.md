@@ -7,7 +7,7 @@
 
 ``` javascript
 const mySkills = {
-  frontend: ['html', ['css', 'bootstrap', 'less'], ['javascript', 'react'],
+  frontend: ['html', ['css', 'bootstrap', 'less'], ['javascript', 'react', 'typescript'],
   tools: [['git', 'github'], 'terminal', 'photoshop', 'ejs'],
   soft: ['adaptability', 'enthusiastic', 'confidence', 'empathy']
 }
