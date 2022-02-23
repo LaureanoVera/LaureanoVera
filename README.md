@@ -3,7 +3,7 @@
 
 > 👨‍💻 [Portfolio](https://portfolio-lv.netlify.app "Look my work")  
 
-> 👔 [Linkedin](https://www.linkedin.com/inlaureano-vera-320086204/ "Project?")  
+> 👔 [Linkedin](https://www.linkedin.com/in/laureano-vera-320086204/ "Project?")  
 
 ``` javascript
 const mySkills = {
