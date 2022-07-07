@@ -1,14 +1,14 @@
 # I'm **Laureano Vera** 💻
 ### 📘 Frontend Developer👾
 
-> 👨‍💻 [Portfolio](https://portfolio-lv.netlify.app "Look my work")  
+> 👨‍💻 [Portfolio](https://laureanovera.netlify.app/ "Look my work")  
 
 > 👔 [Linkedin](https://www.linkedin.com/in/laureano-vera-320086204/ "Project?")  
 
 ``` javascript
 const mySkills = {
-  frontend: ['html', ['css', 'bootstrap', 'less'], ['javascript', 'react', 'typescript'],
-  tools: [['git', 'github'], 'terminal', 'photoshop', 'ejs'],
+  frontend: ['html', 'css', ['javascript', 'svelte', 'typescript'],
+  tools: [['git', 'github'], 'terminal'],
   soft: ['adaptability', 'enthusiastic', 'confidence', 'empathy']
 }
 ```
