@@ -1,7 +1,7 @@
 # I'm **Laureano Vera** 💻
 ### 📘 Frontend Developer👾
 
-> 👨‍💻 [Portfolio](https://laureanovera.netlify.app/ "Look my work")  
+> 👨‍💻 [Portfolio](https://laureano-vera.netlify.app/ "Look my work")  
 
 > 👔 [Linkedin](https://www.linkedin.com/in/laureano-vera-320086204/ "Project?")  
 
