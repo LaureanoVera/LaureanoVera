@@ -1,5 +1,5 @@
 # I'm **Laureano Vera** 💻
-### 📘 Web Developer👾
+### 📘 Backend Developer👾
 
 > 👨‍💻 [Portfolio](https://veralaureano.netlify.app/ "Look my work")  
 
